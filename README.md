@@ -1,3 +1,3 @@
 #RailsCasts Example Application
 
-Building user auth from scratch as oppossed to using Devise or other popular gem.
+user.rb > SecureRandom.urlsafe_base64 > The 'urlsafe_base64' arg on SecureRandom generates a URL safe base 64 string.
